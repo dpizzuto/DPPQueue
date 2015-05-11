@@ -1,7 +1,7 @@
 DPPQueue
 ===========
 
-Quick&Dirt solution for a Queue for Objective-C.
+Quick&Dirty solution for a Queue written in Objective-C.
 
 How to use
 ==========
