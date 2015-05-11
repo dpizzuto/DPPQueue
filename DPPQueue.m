@@ -7,9 +7,11 @@
 
 #import "DPPQueue.h"
 
-@implementation DPPQueue
 
-@synthesize queue;
+@implementation DPPQueue{
+    NSMutableArray *queue;
+}
+
 
 - (id)init{
     if (self=[super init]) {
